@@ -30,6 +30,8 @@ One facet of this project involved the development and evaluation of machine lea
 
 As an integral part of this project, data visualization was conducted in Tableau. Visualizations served as a dynamic means to communicate insights and trends effectively. While not explicitly detailed in the provided summaries, Tableau dashboards and visualizations were created to complement the analysis. These visual representations added a layer of interactivity and accessibility to the project, allowing stakeholders to explore the environmental data visually.
 
+Tableau -  https://public.tableau.com/app/profile/yamin3547/viz/AnalyzingEnviromentalInsights/Dashboard1#1
+
 ### Conclusion
 
 This project represents a holistic approach to environmental monitoring and analysis, encompassing data preprocessing, SQL-based data analysis, machine learning modeling, and data visualization. The seamless integration of Python and MySQL facilitated efficient data handling and analysis, ultimately yielding valuable insights into environmental conditions and the relationship between LPG consumption and CO emissions.
